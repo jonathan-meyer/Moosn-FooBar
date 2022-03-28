@@ -1,0 +1,9 @@
+{
+  "generator-stej": {
+    "name": "Moosn-FooBar",
+    "author": "Jonathan Meyer",
+    "email": "jonathan.meyer@libertymutual.com",
+    "description": "Another awesome typescript app by Jonathan Meyer.",
+    "version": "0.1.0"
+  }
+}
